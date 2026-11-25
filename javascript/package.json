@@ -1,0 +1,13 @@
+{
+  "name": "activityforge-example-javascript",
+  "version": "1.0.0",
+  "description": "Minimal JavaScript example for the ActivityForge API (kids' activity puzzle generator on RapidAPI).",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "license": "MIT"
+}

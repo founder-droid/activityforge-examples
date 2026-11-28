@@ -4,6 +4,8 @@ Runnable examples for the **ActivityForge API** — generate print-ready
 kids' activity puzzles (word searches, mazes, dot-to-dots) with verified
 answer keys, as JSON, SVG, and PDF.
 
+**Try the live demo (free, no signup):** https://muse.ai/s/activityforge-xrxn6xuuixjlqxy3/QB2fT0-HkkBViIlU1kjS0i7dv6S4FnQEghMiBXHRjmY
+
 **Get a free key:** subscribe to the free BASIC plan (100 calls/day) on
 the RapidAPI listing and copy your key from the Endpoints page:
 https://rapidapi.com/aerolyf-global-holdings-llc-aerolyf-global-holdings-llc-default/api/activityforge
